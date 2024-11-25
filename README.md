@@ -4,12 +4,10 @@ I build solutions with code, transforming ideas into scalable products. Passiona
 
 🔧 Tech Stack:
 
-- MERN (MongoDB, Express, React, Node.js)
+- MERN (MongoDB, Express, React, React Native, Node.js)
 - JavaScript / TypeScript
-- AWS & Cloud Architecture
 - RESTful APIs & Microservices
 - Responsive Design & Animation
-- Flutter (dart)
 - JAVA DSA
 🚀 Always learning, building, and growing. 🌱 Currently exploring DSA & Java to sharpen problem-solving.
 
