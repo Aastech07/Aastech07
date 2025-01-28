@@ -1,4 +1,4 @@
-👨‍💻 Android Developer | MERN Enthusiast | Software Innovator
+👨‍💻 Android Developer | Android Enthusiast | Software Innovator
 
 I build solutions with code, transforming ideas into scalable products. Passionate about creating seamless user experiences, robust backends, and everything in between.
 
